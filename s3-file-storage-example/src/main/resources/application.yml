@@ -1,0 +1,18 @@
+cloud:
+  aws:
+    credentials:
+      access-key: <your-access-key>
+      secret-key: <your-secret-key>
+    region:
+      static: <region_name>
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: t<bucket-name>
+
+
+server:
+  port: 9090
+
