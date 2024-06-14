@@ -3,7 +3,10 @@
 ## Description
 This is a Spring Boot application for uploading, deleting, and downloading files to/from an AWS S3 bucket. The application provides REST endpoints to interact with the S3 bucket.
 
-![Screenshot 2024-05-03 120616](https://github.com/Tejas-24ytj/Spring-Boot-S3-File-Uploader/assets/105742352/aa961fa4-7c78-42d6-be51-0a8103f29001)
+![Screenshot 2024-05-03 120536](https://github.com/Tejas-24ytj/Spring-Boot-S3-File-Uploader/assets/105742352/f6d253dc-7110-4a76-9677-fc336b018ffa)
+![Screenshot 2024-05-03 120402](https://github.com/Tejas-24ytj/Spring-Boot-S3-File-Uploader/assets/105742352/ec613171-8581-461b-9930-c240806f9fd7)
+![Screenshot 2024-05-03 115846](https://github.com/Tejas-24ytj/Spring-Boot-S3-File-Uploader/assets/105742352/63b0e0be-5103-4371-9abe-cfdeacbc84f1)
+
 
 
 ## Prerequisites
