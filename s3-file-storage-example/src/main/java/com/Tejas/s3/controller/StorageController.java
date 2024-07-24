@@ -1,7 +1,7 @@
-package com.javatechie.s3.controller;
+package com.tejas.s3.controller;
 
 
-import com.javatechie.s3.service.StorageService;
+import com.tejas.s3.service.StorageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.http.HttpStatus;
