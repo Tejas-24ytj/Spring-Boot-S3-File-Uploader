@@ -1,4 +1,4 @@
-package com.tejas.s3.config;
+package com.Tejas.s3.config;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
